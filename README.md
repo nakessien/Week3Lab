@@ -1,5 +1,4 @@
-# Week 3 Lab: Data Management for Machine Learning
-
+# Week 3 Lab: Data Visualization and Descriptive Analytics II
 Practical lab materials for Week 3. You will clean, transform, and explore tabular data using Python and Jupyter. By the end of the lab you will be able to load raw data, fix common quality issues, engineer starter features, and document a reproducible workflow.
 
 ## Learning goals
